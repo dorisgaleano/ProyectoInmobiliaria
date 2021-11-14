@@ -16,4 +16,4 @@ Backend:
 Nodejs, express, mongo
 
 Frontend
-Html o angular, js, css, bootstrap
+Angular 
