@@ -6,3 +6,14 @@ Integrantes                 -    Rol        :
 - Alexander Panqueva        -   Desarrollador
 - Fabio Molina              -   Diseñador
 - Alejandra Morales Ordoñez -   Tester
+
+PROYECTO:
+
+
+TECNOLOGIA: 
+
+Backend:
+Nodejs, express, mongo
+
+Frontend
+Html o angular, js, css, bootstrap
